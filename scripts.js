@@ -11,7 +11,7 @@ if (a < 5) {
   console.log(a * 2);
 }
 
-let bookCount = 10;
+let bookCount = 11;
 for (let i = 0; i < bookCount; i++) {
 console.log(i)
 }
