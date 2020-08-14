@@ -1,2 +1,3 @@
-name= 'Anna';
-console.log(name)
+let name = 'Anna';
+console.log(name);
+
