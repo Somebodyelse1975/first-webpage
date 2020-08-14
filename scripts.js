@@ -1,6 +1,4 @@
-//let name ='Anna';
-undefined
-name
-"Anna"
-console.log(name);
-VM159:1 Anna//
+let myVariable = false;
+if (myVariable === true) {
+  console.log('The condition has been evaluated to true');
+}
