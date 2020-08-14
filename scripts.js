@@ -10,3 +10,8 @@ if (a < 5) {
 } else {
   console.log(a * 2);
 }
+
+let bookCount = 10;
+for (let i = 0; i < bookCount; i++) {
+console.log(i)
+}
