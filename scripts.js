@@ -15,3 +15,10 @@ let bookCount = 21;
 for (let i = 0; i < bookCount; i++) {
 console.log(i)
 }
+
+ 
+let printValues = ([0, 3, 6, 7, 9]) => {
+  for (let i = 0; i < printValues.length; i++){
+    console.log(printValues[i]);
+  }
+}
